@@ -1,3 +1,7 @@
-from main import app
+import sys
+import os
 
-# Vercel detects 'app' automatically
+# Add root folder to python path so Vercel finds main.py & services/
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from main import app
