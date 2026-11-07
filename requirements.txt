@@ -10,5 +10,5 @@ langchain-groq
 langgraph
 chromadb
 langchain-huggingface
-torch==2.2.2+cpu
 sentence-transformers
+torch==2.2.2+cpu
