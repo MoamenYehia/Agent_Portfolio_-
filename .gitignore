@@ -1,0 +1,33 @@
+# Environment Variables & Secrets
+.env
+.env.local
+*.env
+
+# Local Vector Store & Databases
+chroma_db/
+*.sqlite3
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# Deployment & Build Caches
+.vercel/
+build/
+dist/

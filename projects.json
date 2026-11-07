@@ -1,0 +1,20 @@
+{
+  "code-sense-ai": {
+    "title": "CodeSense_AI",
+    "summary": "AI codebase and portfolio agent with hybrid retrieval, ChromaDB, BM25, and FastAPI backend.",
+    "tech_stack": ["LangChain", "LangGraph", "FastAPI", "Chroma DB", "BM25", "Python", "React"],
+    "github_url": "https://github.com/MoamenYehia/CodeSense_AI"
+  },
+  "parkinsons-disease-project": {
+    "title": "Parkinson's Disease Diagnostic Framework",
+    "summary": "Multi-modal clinical diagnostic pipeline combining Vision Transformers (ViT) with Grad-CAM and audio GRUs.",
+    "tech_stack": ["PyTorch", "Vision Transformers", "OpenCV", "Grad-CAM", "Python", "GRU"],
+    "github_url": "https://github.com/MoamenYehia/Parkinsons-Diagnostic"
+  },
+  "mythlens": {
+    "title": "MythLens Medical Claim Verifier",
+    "summary": "Hackathon RAG system extracting atomic claims from transcripts and verifying against PubMed and openFDA.",
+    "tech_stack": ["LangChain", "Groq", "Qwen", "Chroma DB", "BM25", "Python", "FastAPI"],
+    "github_url": "https://github.com/MoamenYehia/MythLens"
+  }
+}
